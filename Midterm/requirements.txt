@@ -1,0 +1,4 @@
+libraries used in JN:
+-requests
+-BeautifulSoup from bs4
+-pandas
